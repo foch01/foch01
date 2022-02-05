@@ -12,7 +12,7 @@
 
 - 🏭 I created my side business [THOLIE](https://www.linkedin.com/company/tholie-sas/).
 
-- 👨‍💻 All of my projects are available at [in coming](in coming).
+- 👨‍💻 All of my projects are available at my portfolio [thomas-sanceo.com](https://thomas-sanceo.com).
 
 - 📫 How to reach me [@foch01](https://t.me/foch01).
 
@@ -21,8 +21,16 @@
 - ⚡ Fun fact **My favorite meal is "Galette saucisse". This is the best meal you can find in Brittany.**
 
 <p align="left">
-<a href="https://www.youtube.com/channel/UCw-hKUHUgar_Mm_BxaDchBQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="La bagad du web" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCw-hKUHUgar_Mm_BxaDchBQ" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="La bagad du web" height="30" width="40" />
+  </a>
 <i> - Just a retransmission of the presentations that I have the opportunity to record in my differents projects.</i>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanceothomas/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Thomas Sanceo - linkedin" height="40" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
